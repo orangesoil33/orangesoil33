@@ -1,5 +1,5 @@
 # 💫 About Me:
-2 years as a CLUE Math Tutor at the University of Washington.<br>(teaching subjects like Precalculus, Calculus, Differential Equations, Linear Algebra)<br><br>Bachelor's Degrees in Math and Computer Science at the University of Washington: Seattle.<br><br>Hobbies: Gym/Fitness, Running, Language Learning, Geoguessr, World History<br><br><br>
+2 years as a CLUE Math Tutor at the University of Washington.<br>(teaching subjects like Precalculus, Calculus, Differential Equations, Linear Algebra)<br><br>Bachelor's Degrees in Math and Computer Science at the University of Washington: Seattle.<br><br>
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
